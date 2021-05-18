@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="dimension_zero"> 0dp </dimen>
+    <dimen name="dimension_ten"> 10dp </dimen>
+    <dimen name="dimension_margin"> 40dp </dimen>
+    
+    
+</resources>
